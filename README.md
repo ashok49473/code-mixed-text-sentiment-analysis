@@ -63,7 +63,7 @@ The project will deliver a trained deep learning model, a report on the experime
 </tbody>
 </table>
 
-Model: 1D ConvNet <br>
+
 
 Confusion Matrix
 
