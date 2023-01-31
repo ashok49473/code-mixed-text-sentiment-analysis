@@ -18,3 +18,6 @@ Sentiment analysis of code-mixed data is a challenging task due to the complexit
 
 ### Deliverables:
 The project will deliver a trained deep learning model, a report on the experiment results, and the code used for training the model.
+
+# Result
+<table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr></thead><tbody><tr><td>Row 1, Column 1</td><td>Row 1, Column 2</td><td>Row 1, Column 3</td></tr><tr><td>Row 2, Column 1</td><td>Row 2, Column 2</td><td>Row 2, Column 3</td></tr><tr><td>Row 3, Column 1</td><td>Row 3, Column 2</td><td>Row 3, Column 3</td></tr></tbody></table>
