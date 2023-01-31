@@ -20,4 +20,44 @@ Sentiment analysis of code-mixed data is a challenging task due to the complexit
 The project will deliver a trained deep learning model, a report on the experiment results, and the code used for training the model.
 
 # Result
-<table><thead><tr><th>Column 1</th><th>Column 2</th><th>Column 3</th></tr></thead><tbody><tr><td>Row 1, Column 1</td><td>Row 1, Column 2</td><td>Row 1, Column 3</td></tr><tr><td>Row 2, Column 1</td><td>Row 2, Column 2</td><td>Row 2, Column 3</td></tr><tr><td>Row 3, Column 1</td><td>Row 3, Column 2</td><td>Row 3, Column 3</td></tr></tbody></table>
+<table>
+<thead>
+<tr>
+<th>Model</th>
+<th>Accuracy</th>
+<th>F1 Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Simple RNN</td>
+<td>0.72</td>
+<td>0.69</td>
+</tr>
+<tr>
+<td>GRU</td>
+<td>0.76</td>
+<td>0.74</td>
+</tr>
+<tr>
+<td>LSTM</td>
+<td>0.75</td>
+<td>0.74</td>
+</tr>
+<tr>
+<td>Bi-LSTM</td>
+<td>0.76</td>
+<td>0.74</td>
+</tr>
+<tr>
+<td>1D Convolution Network</td>
+<td>0.76</td>
+<td>0.75</td>
+</tr>
+</tbody>
+</table>
+
+### Best results
+- Model: 1D ConvNet
+- Confusion Matrix
+![download](https://user-images.githubusercontent.com/73692009/215715024-b90d175e-918d-4dd5-b700-ecacea40b1c2.png)
