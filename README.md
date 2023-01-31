@@ -12,6 +12,12 @@ A deep learning model such as a Convolutional Neural Network (CNN) or a Recurren
 
 ### Tools & Techniques: 
 The project will be implemented using Python programming language and deep learning libraries such as TensorFlow. The model will be trained using a GPU for faster computation.
+- Google Colab
+- Python
+- NLTK
+- Tensorflow
+- Gensim
+- Scikit-Learn
 
 ### Significance: 
 Sentiment analysis of code-mixed data is a challenging task due to the complexity of multiple languages in a single text. The deep learning model developed in this project will be useful for various real-world applications such as customer feedback analysis, social media analysis, and brand monitoring.
@@ -57,7 +63,9 @@ The project will deliver a trained deep learning model, a report on the experime
 </tbody>
 </table>
 
-### Best results
 - Model: 1D ConvNet
-- Confusion Matrix
+Confusion Matrix
 ![download](https://user-images.githubusercontent.com/73692009/215715024-b90d175e-918d-4dd5-b700-ecacea40b1c2.png)
+
+Classification Report
+![Screenshot 2023-01-31 143333](https://user-images.githubusercontent.com/73692009/215715837-93eabb40-b19d-4d81-8905-29c9a5ac183d.png)
